@@ -11,4 +11,4 @@
 <h3 display="inline-block">______________________________________________________________________________________</h3>
 <h2>My S.O</h2>
 
-<img width="210" height="200" src="https://miro.medium.com/max/1000/1*czOkwMWpqvRmgp1Jmz2H3g.jpeg"></img>
+<img width="250" height="200" src="https://miro.medium.com/max/1000/1*czOkwMWpqvRmgp1Jmz2H3g.jpeg"></img>
