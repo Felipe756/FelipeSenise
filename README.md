@@ -8,7 +8,7 @@
 
 [![Social Networks](https://img.shields.io/badge/Social-Networks-green)](https://linktr.ee/jaulin) 
 
-<h3 display="inline-block">______________________________________________________________________________________</h3>
+<h3 display="inline-block">___________________________________________</h3>
 
  
 ## About Me...
