@@ -1,5 +1,5 @@
 [![Discord Server](https://img.shields.io/badge/Discord-%23Server-7289DA?logo=Discord&style=for-the-badge)](https://discord.gg/5EEKBHp)
-[![Links].(https://img.shields.io/badge/Social-Networks-green).].(https://linktr.ee/jaulin)
+[![Discord Server](https://img.shields.io/badge/Discord-%23Server-7289DA?logo=Discord&style=for-the-badge)](https://discord.gg/5EEKBHp)
 <h2 align="center">:man_technologist:Hello Everyone! I´m Jaulin </h2>
 <b>What do I do?</b>
 
