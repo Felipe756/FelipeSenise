@@ -6,7 +6,7 @@
 
 <i display="inline-block">Follow me! ↓↓↓</i>
 
-[![Social Networks](https://img.shields.io/badge/Social-Networks-green)](https://linktr.ee/jaulin) 
+[![Social Networks](https://camilaporto.com.br/wp-content/uploads/2020/11/link-tree-1.jpg)](https://linktr.ee/jaulin) 
 
 <h3 display="inline-block">__________________________________________________</h3>
 
