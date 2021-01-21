@@ -7,4 +7,4 @@
 • <i> I Program in HTML CSS, starting at: C, JavaScript, Linux commands
 &nbsp; &nbsp;
 
- <button onclick="window.location.href = 'https://linktr.ee/jaulin'">My Social Networks</button>
+<a href="https://linktr.ee/jaulin">My Social Networks/a>
