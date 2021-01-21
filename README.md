@@ -1,6 +1,5 @@
-<a href=""https://bestanimations.com/">
-  <img align="right" src="https://bestanimations.com/gifs/Dog-Dancing-Brazil.html" width=25% height=20% />
-</a>
+<img align="right" src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/see_no_evil_monkey_256_1.gif" width=25% height=20% />
+
 
 ## Hello everyone
 
