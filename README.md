@@ -15,6 +15,6 @@
 - Use Manjaro KDE
 - Full Stack web development study and future hacking
 - Brazilian 
-- Beginner / intermediate
-
+- Beginner / intermediate programmer
+- 10 years old 😳😳😳
 
