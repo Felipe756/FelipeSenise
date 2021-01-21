@@ -12,6 +12,9 @@
 
  
 ## About Me...
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1
+- Use Manjaro KDE
+- Full Stack web development study and future hacking
+- Brazilian 
+- Beginner / intermediate
+
 
