@@ -6,8 +6,7 @@
 
 <i display="inline-block">Follow me! ↓↓↓</i>
 
-<a href="https://linktr.ee/jaulin">
-<img src="https://camilaporto.com.br/wp-content/uploads/2020/11/link-tree-1.jpg" width=25% height="20% /> 
+[![Social Networks](https://img.shields.io/badge/Social-Networks-green)](https://linktr.ee/jaulin) 
 
 <h3 display="inline-block">__________________________________________________</h3>
 
