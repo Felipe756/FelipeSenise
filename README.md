@@ -4,5 +4,5 @@
 
 ## Hello World! 
 
-<i>Follow-me! ↓↓↓</i>;display: inline-block;
+<i display: inline-block;>Follow-me! ↓↓↓</i>
 [![Social Networks](https://img.shields.io/badge/Social-Networks-green)](https://linktr.ee/jaulin) 
