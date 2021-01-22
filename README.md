@@ -18,7 +18,7 @@
 - Beginner / intermediate programmer
 - 10 years old 😳😳😳
 
-## Linguages and stats   
+## Languages and stats
 
 
 [Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Felipe756&show_icons=true&theme=dracula)<br/>
