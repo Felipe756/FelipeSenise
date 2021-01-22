@@ -18,7 +18,7 @@
 - Beginner / intermediate programmer
 - 10 years old 😳😳😳
 
-## Linguages
+## Linguages and stats
 
 <br>
 <img align="left" height="50" width="50" src="https://i.imgur.com/0E0bTey.png">
