@@ -18,12 +18,13 @@
 - Beginner / intermediate programmer
 - 10 years old 😳😳😳
 
-## Linguages and stats
-
-<img align="left" height="50" width="50" src="https://i.imgur.com/0E0bTey.png"></img>
-<img display="inline-block" align="left" height="50" width="50" src="https://i.imgur.com/9v8YEZ5.png"></img>
+## Linguages and stat
 
 
+<img align="left" height="50" width="50" src="https://i.imgur.com/0E0bTey.png">
+<img align="left" height="50" width="50" src="https://i.imgur.com/9v8YEZ5.png">
+</img>
+</img>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Felipe756&show_icons=true&theme=dracula)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe756&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
