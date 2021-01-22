@@ -12,7 +12,7 @@
 
  
 ## About Me...
-- Use Manjaro KDE
+- Use Pop OS
 - Full Stack web development study and future hacking
 - Brazilian 
 - Beginner / intermediate programmer
