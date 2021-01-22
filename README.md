@@ -8,9 +8,7 @@
 
 [![Social Networks](https://img.shields.io/badge/Social-Networks-green)](https://linktr.ee/jaulin) 
 
-<h3 display="inline-block">__________________________________________________</h3>
 
- 
 ## About Me...
 - Use Pop OS
 - Full Stack web development study and future hacking
@@ -24,7 +22,6 @@
 <img align="left" height="50" width="50" src="https://i.imgur.com/9v8YEZ5.png">
 </img>
 </img> 
-______________________________________
 
 ## Status
  
