@@ -10,7 +10,7 @@
 
 
 ## About Me...
-- Use Pop OS
+- Using Kali Linux
 - Full Stack web development study and future hacking
 - Brazilian 
 - Beginner / intermediate programmer
