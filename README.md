@@ -10,7 +10,7 @@
 
 
 ## About Me...
-- Using Kali Linux
+- Using Windows (with WSL)
 - Full Stack web development study and future hacking
 - Brazilian 
 - Beginner / intermediate programmer
