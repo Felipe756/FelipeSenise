@@ -14,7 +14,6 @@
 - Full Stack web development study and future hacking
 - Brazilian 
 - Beginner / intermediate programmer
-- 10 years old 😳😳😳
 
 ## Languages and status
 
