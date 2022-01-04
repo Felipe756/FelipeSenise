@@ -10,7 +10,7 @@
 
 
 ## About Me...
-- Using Windows (with WSL)
+- Using Debian
 - Full Stack web development study and future hacking
 - Brazilian 
 - Beginner / intermediate programmer
