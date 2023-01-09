@@ -10,10 +10,10 @@
 
 
 ## About Me...
-- Using Debian
-- Full Stack web development study and future hacking
-- Brazilian 
-- Beginner / intermediate programmer
+  - Windows // Manjaro
+  - FrontEnd Programmer
+  - Brazilian
+  - Begginer Programmer
 
 ## Languages and status
 
